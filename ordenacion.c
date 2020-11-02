@@ -1,8 +1,8 @@
 //Esqueleto
 /*
- * Práctica 1:  Algoritmo de ordenación tipo A
- * Autor:       Atilano Fernández-Pacheco Sánchez-Migallón
- * Fecha:       05/10/2019
+ * Práctica 1:  Algoritmo de ordenación tipo B + Sacudida +Shell
+ * Autor:       Pablo Menéndez Ruiz de Azúa
+ * Fecha:       02/11/2020
  */
 
 #include <stdio.h>
